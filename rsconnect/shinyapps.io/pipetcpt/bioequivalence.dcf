@@ -1,0 +1,10 @@
+name: bioequivalence
+title: bioequivalence
+username:
+account: pipetcpt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1035918
+bundleId: 2239580
+url: https://pipetcpt.shinyapps.io/bioequivalence/
+when: 1563345564.97527
