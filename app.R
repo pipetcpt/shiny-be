@@ -4,6 +4,7 @@
 require(shiny)
 require(tidyverse)
 require(BE)
+require(sasLM)
 
 load(file = 'examples.Rdata')
 
